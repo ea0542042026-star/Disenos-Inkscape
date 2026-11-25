@@ -1,0 +1,8 @@
+<div class="bg-slate-900 border border-slate-800 rounded-2xl p-4 text-center hover:border-blue-500/50 transition group">
+    <img src="Foto_Estudiantes/AldairEscobar.jpg"
+        alt="Foto Estudiante"
+        class="w-20 h-20 rounded-full mx-auto mb-3 object-cover border-2 border-slate-700 group-hover:border-blue-500 transition">
+    <h4 class="font-semibold text-sm text-slate-100">Orlando Aldair Escobar Acosta</h4>
+    <p class="text-xs text-blue-400 font-medium mt-0.5">Diseñador gráfico</p>
+    <span class="inline-block mt-2 text-[10px] px-2 py-0.5 rounded bg-slate-800 text-slate-400 border border-slate-700">Inkscape</span>
+</div>
